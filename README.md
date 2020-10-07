@@ -1,4 +1,13 @@
 # Capstone2
 Campsite Reservation System
-- Pair programmed a reservation program using PostgreSQL, JDBC, and Java then tested with JUnit
-- The system was able to write and read reservations to a database, also being able to search specific sites for each location
+
+- Take campsite reservation data for national parks
+- Check for overlapping reservations 
+- Provide general information about national park
+
+Technology Used:
+
+- PostgreSQL 
+- Java JDBC, DAO pattern, CLI
+- Unit Test and Integration testing with JUnit
+
